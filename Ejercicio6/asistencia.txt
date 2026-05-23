@@ -1,0 +1,5 @@
+Victor,2026-05-25,Presente
+Victor,2026-05-26,Presente
+Victor,2026-05-27,Falto
+Victor,2026-05-28,Presente
+Victor,2026-05-29,PResente
