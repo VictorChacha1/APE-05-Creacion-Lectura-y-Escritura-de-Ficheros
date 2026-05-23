@@ -45,8 +45,7 @@ Para mantener el código limpio y organizado, los archivos están distribuidos d
 ```text
 APE05-Ficheros/
 │
-├── src/                # Códigos fuente completos (.java / .cpp)
+├── src/ ─ archivos/    # Códigos fuente completos (.java / .cpp)  y # Bases de datos generadas (estudiantes.txt, inventario.txt, etc.)      
 ├── capturas/           # Evidencias gráficas (ejecución, clases y métodos)
-├── archivos/           # Bases de datos generadas (estudiantes.txt, inventario.txt, etc.)
 ├── README.md           # Este documento de presentación
 └── informe.pdf         # Informe técnico completo de la Guía APE 05
