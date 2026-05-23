@@ -1,4 +1,0 @@
-1850024298,Victor,Software,9.0
-1802807030,Luis,Software,7.0
-1623274038,MAria,Software,10.0
-1845689710,Jose,Software,8.0
