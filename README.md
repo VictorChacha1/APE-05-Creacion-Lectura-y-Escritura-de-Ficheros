@@ -10,7 +10,7 @@ Este repositorio contiene la resolución integral de la Guía Práctica APE 05 c
 * **Nombre:** Victor Manuel Chacha Chango
 * **Nivel y Paralelo:** Primero - B
 * **Docente:** Ing. José Ruben Caiza
-* **Ciclo Académico:** Enero - Julio 2026
+* **Ciclo Académico:** Febrero - Junio 2026
 
 ---
 
